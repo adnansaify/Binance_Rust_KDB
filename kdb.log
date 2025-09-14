@@ -1,0 +1,343 @@
+KDB-X 0.1.0 2025.06.25 Copyright (C) 1993-2025 Kx Systems
+l64/ 12()core 15662MB adnan.saify@corp.merillife.com minixvlap071 127.0.1.1 EXPIRE 2025.09.30 ahsaify007@gmail.com COMMUNITY #5028934
+
+Welcome to KDB-X Community Edition!
+For Community support, please visit https://kx.com/slack
+Tutorials can be found at https://github.com/KxSystems/tutorials
+Ready to go beyond the Community Edition? Email preview@kx.com
+
+()
+KDB Database ready on port 5001
+-1
+Database: ./hdb/allTickers.dat
+-1
+Commands: getAllData[], getStats[], getRecent[n]
+-1
+Auto-save every 50 records
+-1
+Loaded 128
+q)Connected: 7
+=== BTCUSDT TICKER ===
+Symbol: BTCUSDT
+Close:  $115412.1
+Open:   $115620.7
+High:   $116118.6
+Low:    $115100.5
+Volume: 46551
+RDB Records: 1
+HDB Records: 111
+=====================
+=== BTCUSDT TICKER ===
+Symbol: BTCUSDT
+Close:  $115412.1
+Open:   $115620.7
+High:   $116118.6
+Low:    $115100.5
+Volume: 46551.07
+RDB Records: 2
+HDB Records: 111
+=====================
+=== BTCUSDT TICKER ===
+Symbol: BTCUSDT
+Close:  $115412.1
+Open:   $115620.7
+High:   $116118.6
+Low:    $115100.5
+Volume: 46551.09
+RDB Records: 3
+HDB Records: 111
+=====================
+=== BTCUSDT TICKER ===
+Symbol: BTCUSDT
+Close:  $115412.2
+Open:   $115620.7
+High:   $116118.6
+Low:    $115100.5
+Volume: 46551.1
+RDB Records: 4
+HDB Records: 111
+=====================
+=== BTCUSDT TICKER ===
+Symbol: BTCUSDT
+Close:  $115412.1
+Open:   $115620.7
+High:   $116118.6
+Low:    $115100.5
+Volume: 46551.11
+RDB Records: 5
+HDB Records: 111
+=====================
+=== BTCUSDT TICKER ===
+Symbol: BTCUSDT
+Close:  $115412.2
+Open:   $115620.7
+High:   $116118.6
+Low:    $115100.5
+Volume: 46551.12
+RDB Records: 6
+HDB Records: 111
+=====================
+=== BTCUSDT TICKER ===
+Symbol: BTCUSDT
+Close:  $115412.1
+Open:   $115620.7
+High:   $116118.6
+Low:    $115100.5
+Volume: 46551.16
+RDB Records: 7
+HDB Records: 111
+=====================
+=== BTCUSDT TICKER ===
+Symbol: BTCUSDT
+Close:  $115412.2
+Open:   $115620.7
+High:   $116118.6
+Low:    $115100.5
+Volume: 46551.17
+RDB Records: 8
+HDB Records: 111
+=====================
+=== BTCUSDT TICKER ===
+Symbol: BTCUSDT
+Close:  $115412.1
+Open:   $115620.7
+High:   $116118.6
+Low:    $115100.5
+Volume: 46551.2
+RDB Records: 9
+HDB Records: 111
+=====================
+=== BTCUSDT TICKER ===
+Symbol: BTCUSDT
+Close:  $115412.1
+Open:   $115620.7
+High:   $116118.6
+Low:    $115100.5
+Volume: 46551.28
+RDB Records: 10
+HDB Records: 111
+=====================
+=== BTCUSDT TICKER ===
+Symbol: BTCUSDT
+Close:  $115412.1
+Open:   $115620.7
+High:   $116118.6
+Low:    $115100.5
+Volume: 46551.3
+RDB Records: 11
+HDB Records: 111
+=====================
+=== BTCUSDT TICKER ===
+Symbol: BTCUSDT
+Close:  $115412.1
+Open:   $115620.7
+High:   $116118.6
+Low:    $115100.5
+Volume: 46551.3
+RDB Records: 12
+HDB Records: 111
+=====================
+=== BTCUSDT TICKER ===
+Symbol: BTCUSDT
+Close:  $115412.2
+Open:   $115620.7
+High:   $116118.6
+Low:    $115100.5
+Volume: 46551.47
+RDB Records: 13
+HDB Records: 111
+=====================
+=== BTCUSDT TICKER ===
+Symbol: BTCUSDT
+Close:  $115412.1
+Open:   $115620.7
+High:   $116118.6
+Low:    $115100.5
+Volume: 46551.54
+RDB Records: 14
+HDB Records: 111
+=====================
+=== BTCUSDT TICKER ===
+Symbol: BTCUSDT
+Close:  $115412.1
+Open:   $115620.7
+High:   $116118.6
+Low:    $115100.5
+Volume: 46551.58
+RDB Records: 15
+HDB Records: 111
+=====================
+=== BTCUSDT TICKER ===
+Symbol: BTCUSDT
+Close:  $115412.2
+Open:   $115620.7
+High:   $116118.6
+Low:    $115100.5
+Volume: 46551.58
+RDB Records: 16
+HDB Records: 111
+=====================
+=== BTCUSDT TICKER ===
+Symbol: BTCUSDT
+Close:  $115412.1
+Open:   $115596.7
+High:   $116118.6
+Low:    $115100.5
+Volume: 46511.39
+RDB Records: 17
+HDB Records: 111
+=====================
+=== BTCUSDT TICKER ===
+Symbol: BTCUSDT
+Close:  $115412.2
+Open:   $115596.7
+High:   $116118.6
+Low:    $115100.5
+Volume: 46512.23
+RDB Records: 18
+HDB Records: 111
+=====================
+=== BTCUSDT TICKER ===
+Symbol: BTCUSDT
+Close:  $115412.1
+Open:   $115596.7
+High:   $116118.6
+Low:    $115100.5
+Volume: 46512.26
+RDB Records: 19
+HDB Records: 111
+=====================
+=== BTCUSDT TICKER ===
+Symbol: BTCUSDT
+Close:  $115412.1
+Open:   $115596.7
+High:   $116118.6
+Low:    $115100.5
+Volume: 46512.27
+RDB Records: 20
+HDB Records: 111
+=====================
+=== BTCUSDT TICKER ===
+Symbol: BTCUSDT
+Close:  $115412.2
+Open:   $115596.7
+High:   $116118.6
+Low:    $115100.5
+Volume: 46512.45
+RDB Records: 21
+HDB Records: 111
+=====================
+=== BTCUSDT TICKER ===
+Symbol: BTCUSDT
+Close:  $115412.1
+Open:   $115596.7
+High:   $116118.6
+Low:    $115100.5
+Volume: 46512.48
+RDB Records: 22
+HDB Records: 111
+=====================
+=== BTCUSDT TICKER ===
+Symbol: BTCUSDT
+Close:  $115412.1
+Open:   $115596.7
+High:   $116118.6
+Low:    $115100.5
+Volume: 46512.5
+RDB Records: 23
+HDB Records: 111
+=====================
+=== BTCUSDT TICKER ===
+Symbol: BTCUSDT
+Close:  $115412.2
+Open:   $115596.7
+High:   $116118.6
+Low:    $115100.5
+Volume: 46512.5
+RDB Records: 24
+HDB Records: 111
+=====================
+=== BTCUSDT TICKER ===
+Symbol: BTCUSDT
+Close:  $115412.2
+Open:   $115596.7
+High:   $116118.6
+Low:    $115100.5
+Volume: 46512.51
+RDB Records: 25
+HDB Records: 111
+=====================
+=== BTCUSDT TICKER ===
+Symbol: BTCUSDT
+Close:  $115412.1
+Open:   $115596.7
+High:   $116118.6
+Low:    $115100.5
+Volume: 46512.56
+RDB Records: 26
+HDB Records: 111
+=====================
+=== BTCUSDT TICKER ===
+Symbol: BTCUSDT
+Close:  $115412.2
+Open:   $115596.7
+High:   $116118.6
+Low:    $115100.5
+Volume: 46512.57
+RDB Records: 27
+HDB Records: 111
+=====================
+=== BTCUSDT TICKER ===
+Symbol: BTCUSDT
+Close:  $115412.1
+Open:   $115596.7
+High:   $116118.6
+Low:    $115100.5
+Volume: 46512.6
+RDB Records: 28
+HDB Records: 111
+=====================
+=== BTCUSDT TICKER ===
+Symbol: BTCUSDT
+Close:  $115412.1
+Open:   $115596.7
+High:   $116118.6
+Low:    $115100.5
+Volume: 46512.6
+RDB Records: 29
+HDB Records: 111
+=====================
+=== BTCUSDT TICKER ===
+Symbol: BTCUSDT
+Close:  $115412.2
+Open:   $115596.7
+High:   $116118.6
+Low:    $115100.5
+Volume: 46512.65
+RDB Records: 30
+HDB Records: 111
+=====================
+=== BTCUSDT TICKER ===
+Symbol: BTCUSDT
+Close:  $115412.1
+Open:   $115596.7
+High:   $116118.6
+Low:    $115100.5
+Volume: 46512.66
+RDB Records: 31
+HDB Records: 111
+=====================
+=== BTCUSDT TICKER ===
+Symbol: BTCUSDT
+Close:  $115412.1
+Open:   $115596.7
+High:   $116118.6
+Low:    $115100.5
+Volume: 46512.7
+RDB Records: 32
+HDB Records: 111
+=====================
+Saved 47
+Total HDB records: 143
+RDB cleared
+Database saved on exit
